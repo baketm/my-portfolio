@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Projects | My Portfolio</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <header class="site-header">
+        <nav class="navbar">
+
+            <a href="index.html" class="logo">
+                MyPortfolio.
+            </a>
+
+            <button class="menu-toggle"
+                    aria-label="Toggle navigation"
+                    aria-expanded="false">
+                Menu
+            </button>
+
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="projects.html">Projects</a>
+                <a href="contact.html">Contact</a>
+            </div>
+
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="page-intro">
+            <h1>My Projects</h1>
+
+            <p>
+                Here are a few examples of
+                things I've worked on and
+                what I've learned from them.
+            </p>
+        </section>
+
+        <!-- Filter buttons -->
+        <section class="content-section">
+
+            <h2>Explore My Work</h2>
+
+            <div class="filter-buttons">
+                <button class="filter-btn active"
+                        data-filter="all">
+                    All
+                </button>
+
+                <button class="filter-btn"
+                        data-filter="web">
+                    Web Design
+                </button>
+
+                <button class="filter-btn"
+                        data-filter="school">
+                    School Projects
+                </button>
+            </div>
+
+            <div class="card-grid">
+
+                <article class="card project-card"
+                         data-category="web">
+
+                    <h3>Personal Website</h3>
+
+                    <p>
+                        I created a website using
+                        HTML, CSS, and JavaScript.
+                        This helped me understand
+                        how web pages are built.
+                    </p>
+
+                    <p class="project-tag">
+                        Web Design
+                    </p>
+
+                </article>
+
+                <article class="card project-card"
+                         data-category="school">
+
+                    <h3>College Research Project</h3>
+
+                    <p>
+                        For this assignment, I
+                        researched a topic and
+                        organized information
+                        into a clear presentation.
+                    </p>
+
+                    <p class="project-tag">
+                        School Project
+                    </p>
+
+                </article>
+
+                <article class="card project-card"
+                         data-category="web">
+
+                    <h3>HTML Practice Page</h3>
+
+                    <p>
+                        I practiced creating
+                        headings, paragraphs,
+                        links, and layouts
+                        using HTML and CSS.
+                    </p>
+
+                    <p class="project-tag">
+                        Web Design
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <p>
+            &copy; <span class="current-year">2026</span>
+            Your Name. All rights reserved.
+        </p>
+    </footer>
+
+</body>
+</html>

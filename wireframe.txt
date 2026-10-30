@@ -1,0 +1,148 @@
+MY PERSONAL PORTFOLIO
+DESKTOP HOMEPAGE WIREFRAME
+
++------------------------------------------+
+| LOGO      HOME ABOUT PROJECTS CONTACT    |
++------------------------------------------+
+|                                          |
+|       WELCOME TO MY PORTFOLIO            |
+|                                          |
+|          Hi, I'm Your Name               |
+|                                          |
+|       Short Introduction                 |
+|                                          |
+|     [View Projects]  [About Me]          |
+|                                          |
++------------------------------------------+
+|                                          |
+|           MY INTERESTS                   |
+|                                          |
+|  [Technology] [Creativity] [Learning]    |
+|                                          |
++------------------------------------------+
+|                                          |
+|        WANT TO SEE MY WORK?              |
+|                                          |
+|          [Explore Projects]              |
+|                                          |
++------------------------------------------+
+|                 FOOTER                   |
++------------------------------------------+
+
+MOBILE HOMEPAGE WIREFRAME
+
++--------------------------+
+| LOGO              [Menu] |
++--------------------------+
+|                          |
+|        WELCOME           |
+|                          |
+|     Hi, I'm Your Name    |
+|                          |
+|    Short Introduction    |
+|                          |
+|      [View Projects]     |
+|      [About Me]          |
+|                          |
++--------------------------+
+|       MY INTERESTS       |
++--------------------------+
+|        Technology        |
++--------------------------+
+|        Creativity        |
++--------------------------+
+|         Learning         |
++--------------------------+
+|                          |
+|    WANT TO SEE MY WORK?  |
+|                          |
+|    [Explore Projects]    |
+|                          |
++--------------------------+
+|          FOOTER          |
++--------------------------+
+
+ABOUT PAGE WIREFRAME
+
++--------------------------------------+
+| LOGO   HOME ABOUT PROJECTS CONTACT   |
++--------------------------------------+
+|              ABOUT ME                |
+|         Short Introduction           |
++--------------------------------------+
+|           MY BACKGROUND              |
+|          Background Paragraph        |
++--------------------------------------+
+|             MY SKILLS                |
+|             Skills List              |
++--------------------------------------+
+|             MY GOALS                 |
+|             Goals Paragraph          |
++--------------------------------------+
+|           [My Projects]              |
++--------------------------------------+
+|              FOOTER                  |
++--------------------------------------+
+
+
+PROJECTS PAGE WIREFRAME
+
++--------------------------------------+
+| LOGO   HOME ABOUT PROJECTS CONTACT   |
++--------------------------------------+
+|             MY PROJECTS              |
+|          Short Introduction          |
++--------------------------------------+
+|                                      |
+|    [All] [Web Design] [School]        |
+|                                      |
++--------------------------------------+
+| [Project 1] [Project 2] [Project 3]  |
++--------------------------------------+
+|              FOOTER                  |
++--------------------------------------+
+
+
+CONTACT PAGE WIREFRAME
+
++--------------------------------------+
+| LOGO   HOME ABOUT PROJECTS CONTACT   |
++--------------------------------------+
+|             CONTACT ME               |
+|          Short Introduction          |
++--------------------------------------+
+|           SEND A MESSAGE             |
+|                                      |
+| Name:    [________________]          |
+|                                      |
+| Email:   [________________]          |
+|                                      |
+| Message: [________________]          |
+|          [________________]          |
+|                                      |
+|          [Send Message]              |
+|                                      |
++--------------------------------------+
+|              FOOTER                  |
++--------------------------------------+
+
+
+WIREFRAME EXPLANATION
+
+I wanted my website to be easy to understand
+without making it look boring. I placed the
+navigation at the top so visitors can move
+between pages without getting confused.
+
+On the homepage, I put my introduction first
+because I want visitors to know who I am
+right away. I also separated my interests
+into cards instead of writing one long
+paragraph.
+
+For the mobile version, I decided to stack
+the sections vertically so everything
+would be easier to read on a smaller screen.
+
+Overall, I wanted the layout to be simple,
+organized, and comfortable to navigate.
