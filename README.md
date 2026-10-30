@@ -13,7 +13,7 @@ while practicing what I learned in class.
 ## Content
 
 ### 1. What is your full name?
-My name is [Your Name].
+My name is Tavion Baker.
 
 ### 2. What is the purpose of your website?
 The purpose of my website is to introduce
